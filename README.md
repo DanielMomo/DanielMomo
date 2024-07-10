@@ -2,7 +2,7 @@ Sure, here's a draft for your GitHub profile README:
 
 ---
 
-# Hi there, I'm [Daniel Goddard] 👋
+# Hi there, I'm Daniel Goddard 👋
 
 ## About Me
 
